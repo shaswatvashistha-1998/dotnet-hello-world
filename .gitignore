@@ -39,3 +39,8 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+
+# Unit Test Project
+hello-world-api.Tests/bin/
+hello-world-api.Tests/obj/
+hello-world-api.Tests/TestResults/
